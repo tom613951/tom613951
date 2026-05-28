@@ -17,7 +17,7 @@
 ```yaml
 - 🎓 Identity: Student Explorer & Tech Enthusiast
 - 💻 Focus: Python Backend, Web Frontends, and AI Model Integration
-- ⚙️ Design: SolidWorks Mechanical Design & 影刀 RPA (Robotic Process Automation)
+- ⚙️ Design: SolidWorks Mechanical Design & 影刀 RPA
 - 📊 Data: Relational Databases, Advanced Excel & Power BI Analytics
 - 🚀 Mission: Building intelligent, visually-stunning systems bridging hardware, code, and data
 ```
@@ -29,7 +29,7 @@
 ### 🧠 Artificial Intelligence, LLMs & Deep Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Llama_3-044F8E?style=for-the-badge&logo=meta&logoColor=white&v=2" alt="Llama 3" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&v=2" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenAI%20(AI)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -56,7 +56,6 @@
 
 ### 📊 Data Analysis, SQL & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
@@ -82,7 +81,7 @@ Here is a quick overview of what I am currently focusing on:
   `████████░░ 80%`
 - **📈 Advanced Front-End & Data Visualization (Vue/React + ECharts)**
   `███████░░░ 70%`
-- **⚙️ Robotic Process Automation (RPA) & Workflow Design (影刀 RPA)**
+- **⚙️ 影刀 RPA**
   `██████░░░░ 60%`
 - **📊 Business Intelligence & Big Data Analysis (Power BI + SQL)**
   `████████░░ 80%`
