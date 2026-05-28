@@ -16,18 +16,19 @@
 
 ```yaml
 - 🎓 Identity: Student Explorer & Tech Enthusiast
-- 💻 Focus: Python Scripting, Beautiful Frontends, and Practical AI Applications
-- ⚙️ Design: SolidWorks Mechanical & 3D Industrial Modeling
-- 📊 Database: Relational Database Querying & SQL Optimization
-- 🚀 Mission: Building intelligent, visually-stunning solutions that merge code and hardware
+- 💻 Focus: Python Backend, Web Frontends, and AI Model Integration
+- ⚙️ Design: SolidWorks Mechanical Design & Robotic Process Automation (RPA)
+- 📊 Data: Relational Databases, Advanced Excel & Power BI Analytics
+- 🚀 Mission: Building intelligent, visually-stunning systems bridging hardware, code, and data
 ```
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### 🧠 Artificial Intelligence & Deep Learning
+### 🧠 Artificial Intelligence, LLMs & Deep Learning
 <p align="left">
+  <img src="https://img.shields.io/badge/Meta_Llama_3-044F8E?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenAI%20(AI)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
@@ -35,8 +36,9 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-### 💻 Frontend Development
+### 💻 Frontend Development & Data Visualization
 <p align="left">
+  <img src="https://img.shields.io/badge/Apache_ECharts-AA381E?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -45,15 +47,19 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
 
-### ⚙️ Engineering & 3D Modeling
+### ⚙️ Engineering, RPA & 3D Modeling
 <p align="left">
   <img src="https://img.shields.io/badge/SolidWorks-00549F?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
   <img src="https://img.shields.io/badge/AutoCAD-E61E26?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/RPA_UiPath-00A3E0?style=for-the-badge&logo=uipath&logoColor=white" alt="RPA" />
 </p>
 
-### 📊 Database & Core Backend
+### 📊 Data Analysis, SQL & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -66,6 +72,20 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
+
+---
+
+## 🎯 Learning & Development Goals
+Here is a quick overview of what I am currently focusing on:
+
+- **🤖 LLM Applications & Fine-Tuning (Meta Llama 3)**
+  `████████░░ 80%`
+- **📈 Advanced Front-End & Data Visualization (Vue/React + ECharts)**
+  `███████░░░ 70%`
+- **⚙️ Robotic Process Automation (RPA) & Workflow Design**
+  `██████░░░░ 60%`
+- **📊 Business Intelligence & Big Data Analysis (Power BI + SQL)**
+  `████████░░ 80%`
 
 ---
 
