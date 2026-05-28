@@ -1,8 +1,3 @@
-<!-- Custom SVG Header Banner (Local Asset) -->
-<p align="center">
-  <img src="banner.svg" alt="Header Banner" width="100%" />
-</p>
-
 <!-- Dynamic Typing SVG Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,7 +11,7 @@
 
 ```yaml
 - 🎓 Identity: Student Explorer & Tech Enthusiast
-- 💻 Focus: Python Backend, Web Frontends, and AI Model Integration
+- 💻 Focus: Python Backend, Web Frontends, 和 AI Model Integration
 - ⚙️ Design: SolidWorks Mechanical Design & RPA (Robotic Process Automation)
 - 📊 Data: Relational Databases, Advanced Excel & Power BI Analytics
 - 🚀 Mission: Building intelligent, visually-stunning systems bridging hardware, code, and data
