@@ -17,7 +17,7 @@
 ```yaml
 - 🎓 Identity: Student Explorer & Tech Enthusiast
 - 💻 Focus: Python Backend, Web Frontends, and AI Model Integration
-- ⚙️ Design: SolidWorks Mechanical Design & 影刀 RPA
+- ⚙️ Design: SolidWorks Mechanical Design & RPA (Robotic Process Automation)
 - 📊 Data: Relational Databases, Advanced Excel & Power BI Analytics
 - 🚀 Mission: Building intelligent, visually-stunning systems bridging hardware, code, and data
 ```
@@ -51,7 +51,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SolidWorks-00549F?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
   <img src="https://img.shields.io/badge/AutoCAD-E61E26?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
-  <img src="https://img.shields.io/badge/%E5%BD%B1%E5%88%80_RPA-FF5722?style=for-the-badge" alt="影刀 RPA" />
+  <img src="https://img.shields.io/badge/RPA-FF5722?style=for-the-badge&logo=uipath&logoColor=white" alt="RPA" />
 </p>
 
 ### 📊 Data Analysis, SQL & Backend
@@ -81,7 +81,7 @@ Here is a quick overview of what I am currently focusing on:
   `████████░░ 80%`
 - **📈 Advanced Front-End & Data Visualization (Vue/React + ECharts)**
   `███████░░░ 70%`
-- **⚙️ 影刀 RPA**
+- **⚙️ Robotic Process Automation (RPA)**
   `██████░░░░ 60%`
 - **📊 Business Intelligence & Big Data Analysis (Power BI + SQL)**
   `████████░░ 80%`
