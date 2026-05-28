@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c1b"/>
+      <stop offset="50%" stop-color="#161233"/>
+      <stop offset="100%" stop-color="#060511"/>
+    </linearGradient>
+    <!-- Text/Accent Gradient -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a970ff"/>
+      <stop offset="50%" stop-color="#f75c7e"/>
+      <stop offset="100%" stop-color="#4fc08d"/>
+    </linearGradient>
+    <!-- Glow Filter -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="800" height="200" rx="15" fill="url(#bgGrad)" stroke="#1f1a3a" stroke-width="1.5"/>
+
+  <!-- Decorative Abstract Shapes -->
+  <!-- Glowing blobs -->
+  <circle cx="750" cy="50" r="90" fill="#a970ff" opacity="0.18" filter="url(#glow)"/>
+  <circle cx="50" cy="150" r="70" fill="#f75c7e" opacity="0.15" filter="url(#glow)"/>
+  <circle cx="450" cy="180" r="100" fill="#4fc08d" opacity="0.1" filter="url(#glow)"/>
+
+  <!-- Styled Wave Lines -->
+  <path d="M -100 150 C 200 50, 400 250, 900 100" fill="none" stroke="url(#accentGrad)" stroke-width="2.5" opacity="0.3"/>
+  <path d="M -100 120 C 150 180, 500 50, 900 160" fill="none" stroke="url(#accentGrad)" stroke-width="1.5" opacity="0.2"/>
+
+  <!-- Title Text -->
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="38" fill="url(#accentGrad)">
+    Hi there, I'm tom613951 👋
+  </text>
+  
+  <!-- Subtitle Text -->
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600" font-size="18" fill="#8b949e" letter-spacing="1">
+    Student Explorer • Python • AI • FrontEnd • SolidWorks • SQL
+  </text>
+</svg>

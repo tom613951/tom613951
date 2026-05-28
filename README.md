@@ -1,6 +1,6 @@
-<!-- Capsule Render Header Banner -->
+<!-- Custom SVG Header Banner (Local Asset) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,15,30&height=220&section=header&text=Hi%20there,%20I'm%20tom613951%20👋&fontSize=42&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+  <img src="banner.svg" alt="Header Banner" width="100%" />
 </p>
 
 <!-- Dynamic Typing SVG Banner -->
@@ -69,30 +69,25 @@
 
 ---
 
-## 🏆 Game On: GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tom613951&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ## 📊 My GitHub Dashboard
 
+<!-- Locally Generated Stats Cards (Generated via GitHub Action daily) -->
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none; margin: auto;">
     <tr style="border: none;">
       <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=tom613951&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400"/>
+        <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="375"/>
       </td>
       <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom613951&layout=compact&theme=tokyonight" alt="Top Langs" width="300"/>
+        <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="375"/>
       </td>
     </tr>
     <tr style="border: none;">
-      <td colspan="2" align="center" style="border: none; padding: 5px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom613951&theme=tokyonight" alt="GitHub Streak" width="710"/>
+      <td style="border: none; padding: 5px;">
+        <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="375"/>
+      </td>
+      <td style="border: none; padding: 5px;">
+        <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="375"/>
       </td>
     </tr>
   </table>
@@ -106,11 +101,6 @@
 </p>
 
 ---
-
-<!-- Daily Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-</p>
 
 <!-- Visitor Counter -->
 <p align="right">
