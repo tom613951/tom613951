@@ -17,7 +17,7 @@
 ```yaml
 - 🎓 Identity: Student Explorer & Tech Enthusiast
 - 💻 Focus: Python Backend, Web Frontends, and AI Model Integration
-- ⚙️ Design: SolidWorks Mechanical Design & Robotic Process Automation (RPA)
+- ⚙️ Design: SolidWorks Mechanical Design & 影刀 RPA (Robotic Process Automation)
 - 📊 Data: Relational Databases, Advanced Excel & Power BI Analytics
 - 🚀 Mission: Building intelligent, visually-stunning systems bridging hardware, code, and data
 ```
@@ -28,7 +28,7 @@
 
 ### 🧠 Artificial Intelligence, LLMs & Deep Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/Meta_Llama_3-044F8E?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3" />
+  <img src="https://img.shields.io/badge/Llama_3-044F8E?style=for-the-badge&logo=meta&logoColor=white&v=2" alt="Llama 3" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenAI%20(AI)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
@@ -38,7 +38,7 @@
 
 ### 💻 Frontend Development & Data Visualization
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_ECharts-AA381E?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts" />
+  <img src="https://img.shields.io/badge/ECharts-AA381E?style=for-the-badge&logo=apacheecharts&logoColor=white&v=2" alt="ECharts" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -51,7 +51,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SolidWorks-00549F?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
   <img src="https://img.shields.io/badge/AutoCAD-E61E26?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
-  <img src="https://img.shields.io/badge/RPA_UiPath-00A3E0?style=for-the-badge&logo=uipath&logoColor=white" alt="RPA" />
+  <img src="https://img.shields.io/badge/%E5%BD%B1%E5%88%80_RPA-FF5722?style=for-the-badge" alt="影刀 RPA" />
 </p>
 
 ### 📊 Data Analysis, SQL & Backend
@@ -82,7 +82,7 @@ Here is a quick overview of what I am currently focusing on:
   `████████░░ 80%`
 - **📈 Advanced Front-End & Data Visualization (Vue/React + ECharts)**
   `███████░░░ 70%`
-- **⚙️ Robotic Process Automation (RPA) & Workflow Design**
+- **⚙️ Robotic Process Automation (RPA) & Workflow Design (影刀 RPA)**
   `██████░░░░ 60%`
 - **📊 Business Intelligence & Big Data Analysis (Power BI + SQL)**
   `████████░░ 80%`
