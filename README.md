@@ -1,7 +1,4 @@
-<!-- Custom SVG Header Banner (Local Asset) -->
-<p align="center">
-  <img src="banner.svg" alt="Header Banner" width="100%" />
-</p>
+
 
 <!-- Dynamic Typing SVG Banner -->
 <p align="center">
