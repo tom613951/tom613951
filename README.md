@@ -1,3 +1,8 @@
+<!-- Custom SVG Header Banner (Local Asset) -->
+<p align="center">
+  <img src="banner.svg" alt="Header Banner" width="100%" />
+</p>
+
 <!-- Dynamic Typing SVG Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +16,7 @@
 
 ```yaml
 - 🎓 Identity: Student Explorer & Tech Enthusiast
-- 💻 Focus: Python Backend, Web Frontends, 和 AI Model Integration
+- 💻 Focus: Python Backend, Web Frontends, and AI Model Integration
 - ⚙️ Design: SolidWorks Mechanical Design & RPA (Robotic Process Automation)
 - 📊 Data: Relational Databases, Advanced Excel & Power BI Analytics
 - 🚀 Mission: Building intelligent, visually-stunning systems bridging hardware, code, and data
@@ -85,20 +90,20 @@ Here is a quick overview of what I am currently focusing on:
 
 ## 📊 My GitHub Dashboard
 
-<!-- Dynamic Real-Time Stats Cards (Updated dynamically on page load) -->
+<!-- Dynamic Real-Time Stats Cards (Updated dynamically using your private Vercel deployment) -->
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none; margin: auto;">
     <tr style="border: none;">
       <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=tom613951&show_icons=true&theme=tokyonight&count_private=true&v=2" alt="GitHub Stats" width="400"/>
+        <img src="https://github-readme-stats-tom613951.vercel.app/api?username=tom613951&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400"/>
       </td>
       <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom613951&layout=compact&theme=tokyonight&v=2" alt="Top Langs" width="300"/>
+        <img src="https://github-readme-stats-tom613951.vercel.app/api/top-langs/?username=tom613951&layout=compact&theme=tokyonight" alt="Top Langs" width="300"/>
       </td>
     </tr>
     <tr style="border: none;">
       <td colspan="2" align="center" style="border: none; padding: 5px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom613951&theme=tokyonight&v=2" alt="GitHub Streak" width="710"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom613951&theme=tokyonight" alt="GitHub Streak" width="710"/>
       </td>
     </tr>
   </table>
