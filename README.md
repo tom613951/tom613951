@@ -90,23 +90,20 @@ Here is a quick overview of what I am currently focusing on:
 
 ## 📊 My GitHub Dashboard
 
-<!-- Locally Generated Stats Cards (Generated via GitHub Action daily) -->
+<!-- Dynamic Real-Time Stats Cards (Updated dynamically on page load) -->
 <div align="center">
   <table border="0" style="border-collapse: collapse; border: none; margin: auto;">
     <tr style="border: none;">
       <td style="border: none; padding: 5px;">
-        <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="375"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=tom613951&show_icons=true&theme=tokyonight&count_private=true&v=2" alt="GitHub Stats" width="400"/>
       </td>
       <td style="border: none; padding: 5px;">
-        <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="375"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom613951&layout=compact&theme=tokyonight&v=2" alt="Top Langs" width="300"/>
       </td>
     </tr>
     <tr style="border: none;">
-      <td style="border: none; padding: 5px;">
-        <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="375"/>
-      </td>
-      <td style="border: none; padding: 5px;">
-        <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="375"/>
+      <td colspan="2" align="center" style="border: none; padding: 5px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tom613951&theme=tokyonight&v=2" alt="GitHub Streak" width="710"/>
       </td>
     </tr>
   </table>
