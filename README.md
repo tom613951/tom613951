@@ -92,10 +92,10 @@ Here is a quick overview of what I am currently focusing on:
   <table border="0" style="border-collapse: collapse; border: none; margin: auto;">
     <tr style="border: none;">
       <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats-tom613951.vercel.app/api?username=tom613951&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400"/>
+        <img src="https://github-readme-stats-tom613951.vercel.app/api?username=tom613951&show_icons=true&theme=tokyonight&count_private=true&v=20261009" alt="GitHub Stats" width="400"/>
       </td>
       <td style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats-tom613951.vercel.app/api/top-langs/?username=tom613951&layout=compact&theme=tokyonight" alt="Top Langs" width="300"/>
+        <img src="https://github-readme-stats-tom613951.vercel.app/api/top-langs/?username=tom613951&layout=compact&theme=tokyonight&v=20261009" alt="Top Langs" width="300"/>
       </td>
     </tr>
     <tr style="border: none;">
@@ -110,7 +110,7 @@ Here is a quick overview of what I am currently focusing on:
 
 ## 🐍 Contribution Snake Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tom613951/tom613951/output/github-contribution-grid-snake.svg" alt="Snake game" />
+  <img src="https://raw.githubusercontent.com/tom613951/tom613951/output/github-contribution-grid-snake.svg?v=20261009" alt="Snake game" />
 </p>
 
 ---
