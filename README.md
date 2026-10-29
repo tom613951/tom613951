@@ -9,21 +9,21 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```yaml
-- 🎓 Identity: Student Explorer & Tech Enthusiast
-- 💻 Focus: Python Backend, Web Frontends, and AI Model Integration
-- ⚙️ Design: SolidWorks Mechanical Design & RPA (Robotic Process Automation)
-- 📊 Data: Relational Databases, Advanced Excel & Power BI Analytics
-- 🚀 Mission: Building intelligent, visually-stunning systems bridging hardware, code, and data
+- Identity: Student Explorer & Tech Enthusiast
+- Focus: Python Backend, Web Frontends, and AI Model Integration
+- Design: SolidWorks Mechanical Design & RPA (Robotic Process Automation)
+- Data: Relational Databases, Advanced Excel & Power BI Analytics
+- Mission: Building intelligent, visually-stunning systems bridging hardware, code, and data
 ```
 
 ---
 
-## 🛠️ My Tech Stack
+## Tech Stack
 
-### 🧠 Artificial Intelligence, LLMs & Deep Learning
+### AI, LLMs & Deep Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Llama_3-044F8E?style=for-the-badge&logo=meta&logoColor=white&v=2" alt="Llama 3" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&v=2" alt="PyTorch" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-### 💻 Frontend Development & Data Visualization
+### Frontend & Data Visualization
 <p align="left">
   <img src="https://img.shields.io/badge/ECharts-AA381E?style=for-the-badge&logo=apacheecharts&logoColor=white&v=2" alt="ECharts" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -44,14 +44,14 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
 
-### ⚙️ Engineering, RPA & 3D Modeling
+### Engineering, RPA & 3D Modeling
 <p align="left">
   <img src="https://img.shields.io/badge/SolidWorks-00549F?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
   <img src="https://img.shields.io/badge/AutoCAD-E61E26?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
   <img src="https://img.shields.io/badge/RPA-FF5722?style=for-the-badge&logo=uipath&logoColor=white" alt="RPA" />
 </p>
 
-### 📊 Data Analysis, SQL & Backend
+### Data Analysis & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### 🛠️ Tools & Environments
+### Tools & Environments
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -71,21 +71,21 @@
 
 ---
 
-## 🎯 Learning & Development Goals
+## Focus Areas
 Here is a quick overview of what I am currently focusing on:
 
-- **🤖 LLM Applications & Fine-Tuning (Meta Llama 3)**
+- **LLM Applications & Fine-Tuning (Meta Llama 3)**
   `████████░░ 80%`
-- **📈 Advanced Front-End & Data Visualization (Vue/React + ECharts)**
+- **Advanced Front-End & Data Visualization (Vue/React + ECharts)**
   `███████░░░ 70%`
-- **⚙️ Robotic Process Automation (RPA)**
+- **Robotic Process Automation (RPA)**
   `██████░░░░ 60%`
-- **📊 Business Intelligence & Big Data Analysis (Power BI + SQL)**
+- **Business Intelligence & Big Data Analysis (Power BI + SQL)**
   `████████░░ 80%`
 
 ---
 
-## 📊 My GitHub Dashboard
+## GitHub Statistics
 
 <!-- Dynamic Real-Time Stats Cards (Updated dynamically using your private Vercel deployment) -->
 <div align="center">
@@ -108,7 +108,7 @@ Here is a quick overview of what I am currently focusing on:
 
 ---
 
-## 🐍 Contribution Snake Game
+## Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/tom613951/tom613951/output/github-contribution-grid-snake.svg?v=20261009b" alt="Snake game" />
 </p>
