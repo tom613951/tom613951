@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 710 150" width="710" height="150">
+  <style>
+    .bg {
+      fill: #1a1b26;
+      stroke: #24283b;
+      stroke-width: 1.5px;
+      rx: 10px;
+    }
+    .header-title {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: #7aa2f7;
+      letter-spacing: 0.5px;
+    }
+    .header-sub {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      fill: #565f89;
+    }
+    .log-text {
+      font-family: 'Fira Code', 'Cascadia Code', Consolas, monospace;
+      font-size: 12px;
+      fill: #c0caf5;
+    }
+    .scroll-container {
+      animation: scrollUp 21.0s linear infinite;
+    }
+    @keyframes scrollUp {
+      0% {
+        transform: translateY(0);
+      }
+      100% {
+        transform: translateY(-168px);
+      }
+    }
+    .scroll-container:hover {
+      animation-play-state: paused;
+    }
+  </style>
+
+  <!-- Background Card -->
+  <rect width="710" height="150" class="bg" />
+
+  <!-- Card Header -->
+  <g transform="translate(24, 26)">
+    <text x="0" y="0" class="header-title">RECENT ACTIVITY STREAM</text>
+    <text x="662" y="0" class="header-sub" text-anchor="end">LIVE FEED • AUTO-SYNCED</text>
+    <line x1="0" y1="12" x2="662" y2="12" stroke="#24283b" stroke-width="1" />
+  </g>
+
+  <!-- Clip path to isolate scroll window -->
+  <defs>
+    <clipPath id="feed-clip">
+      <rect x="0" y="46" width="710" height="96" rx="0" />
+    </clipPath>
+    <linearGradient id="fade-top" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b26" stop-opacity="1" />
+      <stop offset="100%" stop-color="#1a1b26" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="fade-bottom" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b26" stop-opacity="0" />
+      <stop offset="100%" stop-color="#1a1b26" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Scroll content area -->
+  <g clip-path="url(#feed-clip)">
+    <g class="scroll-container" transform="translate(0, 50)">
+      <g transform="translate(24, 20)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Commented on #527: [Bug]: 0.4.0 — observation capture wedges the sessio... in Tencent/BrowserSkill (2026-10-31)</text>
+</g>
+<g transform="translate(24, 48)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Created branch `fix/pnpm11-allowbuilds-invalid-version-union` in tom613951/dsh-purge (2026-10-29)</text>
+</g>
+<g transform="translate(24, 76)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Opened PR #186 in YuJunZhiXue/dsh-purge (2026-10-29)</text>
+</g>
+<g transform="translate(24, 104)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Opened issue #185: fix(allowBuilds): allowBuilds 中写入 URL 键导致 pnpm 11 报 ... in YuJunZhiXue/dsh-purge (2026-10-29)</text>
+</g>
+<g transform="translate(24, 132)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Created branch `fix/allow-builds-yaml-quoting` in tom613951/dsh-purge (2026-10-28)</text>
+</g>
+<g transform="translate(24, 160)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Opened PR #181 in YuJunZhiXue/dsh-purge (2026-10-28)</text>
+</g>
+<g transform="translate(24, 188)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Commented on #527: [Bug]: 0.4.0 — observation capture wedges the sessio... in Tencent/BrowserSkill (2026-10-31)</text>
+</g>
+<g transform="translate(24, 216)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Created branch `fix/pnpm11-allowbuilds-invalid-version-union` in tom613951/dsh-purge (2026-10-29)</text>
+</g>
+<g transform="translate(24, 244)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Opened PR #186 in YuJunZhiXue/dsh-purge (2026-10-29)</text>
+</g>
+<g transform="translate(24, 272)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Opened issue #185: fix(allowBuilds): allowBuilds 中写入 URL 键导致 pnpm 11 报 ... in YuJunZhiXue/dsh-purge (2026-10-29)</text>
+</g>
+<g transform="translate(24, 300)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Created branch `fix/allow-builds-yaml-quoting` in tom613951/dsh-purge (2026-10-28)</text>
+</g>
+<g transform="translate(24, 328)">
+  <circle cx="0" cy="-5" r="3" fill="#7aa2f7" />
+  <text x="12" y="0" class="log-text">Opened PR #181 in YuJunZhiXue/dsh-purge (2026-10-28)</text>
+</g>
+    </g>
+  </g>
+
+  <!-- Top and Bottom Fade Gradients -->
+  <rect x="1" y="44" width="708" height="14" fill="url(#fade-top)" pointer-events="none" />
+  <rect x="1" y="130" width="708" height="18" fill="url(#fade-bottom)" rx="10" pointer-events="none" />
+</svg>

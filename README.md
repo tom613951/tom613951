@@ -5,17 +5,6 @@
   </a>
 </p>
 
-```text
-tom613951@github
-----------------
-OS           : Windows 11 x64 / Android AOSP
-Environment  : Antigravity Station (pwsh / bash)
-Core Stacks  : C# (.NET 10), Python, TypeScript, Java
-Toolchains   : WinUI 3, WPF, LSPosed, Win32 API, ASM / AST
-Specialties  : Desktop Client Engineering, Runtime Hooking, Protocol Reverse
-Status       : Continuous Integration
-```
-
 ---
 
 ## Technical Focus
@@ -28,14 +17,11 @@ Status       : Continuous Integration
 
 ## Recent Activity
 
-<!--START_SECTION:activity-->
-- Commented on issue [#527: [Bug]: 0.4.0 — observation capture wedges the session que...](https://github.com/Tencent/BrowserSkill/issues/527) in [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) (2026-10-31)
-- Created branch `fix/pnpm11-allowbuilds-invalid-version-union` in [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) (2026-10-29)
-- Opened PR [#186](https://github.com/YuJunZhiXue/dsh-purge) in [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) (2026-10-29)
-- Opened issue [#185: fix(allowBuilds): allowBuilds 中写入 URL 键导致 pnpm 11 报 ERR_P...](https://github.com/YuJunZhiXue/dsh-purge/issues/185) in [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) (2026-10-29)
-- Created branch `fix/allow-builds-yaml-quoting` in [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) (2026-10-28)
-- Opened PR [#181](https://github.com/YuJunZhiXue/dsh-purge) in [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) (2026-10-28)
-<!--END_SECTION:activity-->
+<div align="center">
+  <a href="https://github.com/tom613951?tab=overview">
+    <img src="https://raw.githubusercontent.com/tom613951/tom613951/main/activity-stream.svg" alt="Recent Activity Stream" width="710" />
+  </a>
+</div>
 
 ---
 
