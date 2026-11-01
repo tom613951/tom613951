@@ -1,87 +1,41 @@
-
-
 <!-- Dynamic Typing SVG Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Student+%E2%9E%A1%EF%B8%8F+Python+%26+Frontend;AI+%26+Deep+Learning+Enthusiast;SolidWorks+3D+Designer;SQL+%26+Data+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Windows+Desktop+Engineering+(C%23+%2F+WinUI+3);Android+Reverse+Engineering+%26+LSPosed;Automation+Infrastructure+%26+Reverse+Engineering;Protocol+Security+%26+System+Tooling" alt="Typing SVG" />
   </a>
 </p>
 
----
-
-## About Me
-
-```yaml
-- Identity: Student Explorer & Tech Enthusiast
-- Focus: Python Backend, Web Frontends, and AI Model Integration
-- Design: SolidWorks Mechanical Design & RPA (Robotic Process Automation)
-- Data: Relational Databases, Advanced Excel & Power BI Analytics
-- Mission: Building intelligent, visually-stunning systems bridging hardware, code, and data
+```text
+tom613951@github
+----------------
+OS           : Windows 11 x64 / Android AOSP
+Environment  : Antigravity Station (pwsh / bash)
+Core Stacks  : C# (.NET 10), Python, TypeScript, Java
+Toolchains   : WinUI 3, WPF, LSPosed, Win32 API, ASM / AST
+Specialties  : Desktop Client Engineering, Runtime Hooking, Protocol Reverse
+Status       : Continuous Integration
 ```
 
 ---
 
-## Tech Stack
+## Technical Focus
 
-### AI, LLMs & Deep Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Llama_3-044F8E?style=for-the-badge&logo=meta&logoColor=white&v=2" alt="Llama 3" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&v=2" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenAI%20(AI)-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-
-### Frontend & Data Visualization
-<p align="left">
-  <img src="https://img.shields.io/badge/ECharts-AA381E?style=for-the-badge&logo=apacheecharts&logoColor=white&v=2" alt="ECharts" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
-
-### Engineering, RPA & 3D Modeling
-<p align="left">
-  <img src="https://img.shields.io/badge/SolidWorks-00549F?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
-  <img src="https://img.shields.io/badge/AutoCAD-E61E26?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
-  <img src="https://img.shields.io/badge/RPA-FF5722?style=for-the-badge&logo=uipath&logoColor=white" alt="RPA" />
-</p>
-
-### Data Analysis & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### Tools & Environments
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</p>
+- **Desktop & Native Client**: C# / .NET 10, WinUI 3, WPF, Win32 API Hooking, Multi-threaded Async Pipelines
+- **Android & Hooking**: Java / Kotlin, LSPosed, AGSL Shaders, Runtime Hooking, ART Diagnostics
+- **Reverse Engineering & Automation**: Protocol Analysis, AST Deobfuscation, Stealth Automation, MCP Servers
 
 ---
 
-## Focus Areas
-Here is a quick overview of what I am currently focusing on:
+## Recent Activity
 
-- **LLM Applications & Fine-Tuning (Meta Llama 3)**
-  `████████░░ 80%`
-- **Advanced Front-End & Data Visualization (Vue/React + ECharts)**
-  `███████░░░ 70%`
-- **Robotic Process Automation (RPA)**
-  `██████░░░░ 60%`
-- **Business Intelligence & Big Data Analysis (Power BI + SQL)**
-  `████████░░ 80%`
+<!--START_SECTION:activity-->
+- Commented on issue [#527: [Bug]: 0.4.0 — observation capture wedges the session que...](https://github.com/Tencent/BrowserSkill/issues/527) in [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) (2026-10-31)
+- Created branch `fix/pnpm11-allowbuilds-invalid-version-union` in [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) (2026-10-29)
+- Opened PR [#186](https://github.com/YuJunZhiXue/dsh-purge) in [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) (2026-10-29)
+- Opened issue [#185: fix(allowBuilds): allowBuilds 中写入 URL 键导致 pnpm 11 报 ERR_P...](https://github.com/YuJunZhiXue/dsh-purge/issues/185) in [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) (2026-10-29)
+- Created branch `fix/allow-builds-yaml-quoting` in [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) (2026-10-28)
+- Opened PR [#181](https://github.com/YuJunZhiXue/dsh-purge) in [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) (2026-10-28)
+<!--END_SECTION:activity-->
 
 ---
 
