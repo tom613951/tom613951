@@ -17,11 +17,16 @@
 
 ## Recent Activity
 
-<div align="center">
-  <a href="https://github.com/tom613951?tab=overview">
-    <img src="https://raw.githubusercontent.com/tom613951/tom613951/main/activity-stream.svg" alt="Recent Activity Stream" width="710" />
-  </a>
-</div>
+<!--START_SECTION:activity-->
+| Event | Repository | Details | Date |
+| :--- | :--- | :--- | :--- |
+| `Comment` | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | [#527: [Bug]: 0.4.0 — observation capture wedges the session que...](https://github.com/Tencent/BrowserSkill/issues/527) | `2026-10-31` |
+| `Create Branch` | [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) | [`fix/pnpm11-allowbuilds-invalid-version-union`](https://github.com/tom613951/dsh-purge/tree/fix/pnpm11-allowbuilds-invalid-version-union) | `2026-10-29` |
+| `PR Opened` | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | [#186](https://github.com/YuJunZhiXue/dsh-purge) | `2026-10-29` |
+| `Issue Opened` | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | [#185: fix(allowBuilds): allowBuilds 中写入 URL 键导致 pnpm 11 报 ERR_P...](https://github.com/YuJunZhiXue/dsh-purge/issues/185) | `2026-10-29` |
+| `Create Branch` | [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) | [`fix/allow-builds-yaml-quoting`](https://github.com/tom613951/dsh-purge/tree/fix/allow-builds-yaml-quoting) | `2026-10-28` |
+| `PR Opened` | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | [#181](https://github.com/YuJunZhiXue/dsh-purge) | `2026-10-28` |
+<!--END_SECTION:activity-->
 
 ---
 
