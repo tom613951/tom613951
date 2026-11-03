@@ -23,8 +23,6 @@
 | `Create Branch` | [tom613951/dsh-our-free-model](https://github.com/tom613951/dsh-our-free-model) | [`feature/v2.7.4-with-workbuddy-codearts`](https://github.com/tom613951/dsh-our-free-model/tree/feature/v2.7.4-with-workbuddy-codearts) | `2026-10-31` |
 | `Comment` | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | [#527: [Bug]: 0.4.0 — observation capture wedges the session que...](https://github.com/Tencent/BrowserSkill/issues/527) | `2026-10-31` |
 | `Create Branch` | [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) | [`fix/pnpm11-allowbuilds-invalid-version-union`](https://github.com/tom613951/dsh-purge/tree/fix/pnpm11-allowbuilds-invalid-version-union) | `2026-10-29` |
-| `PR Opened` | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | [#186](https://github.com/YuJunZhiXue/dsh-purge) | `2026-10-29` |
-| `Issue Opened` | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | [#185: fix(allowBuilds): allowBuilds 中写入 URL 键导致 pnpm 11 报 ERR_P...](https://github.com/YuJunZhiXue/dsh-purge/issues/185) | `2026-10-29` |
 <!--END_SECTION:activity-->
 
 ---
