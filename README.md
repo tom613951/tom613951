@@ -20,6 +20,7 @@
 <!--START_SECTION:activity-->
 | Event | Repository | Details | Date |
 | :--- | :--- | :--- | :--- |
+| `Release` | [tom613951/XbotDeployer](https://github.com/tom613951/XbotDeployer) | [XbotDeployer v2.1.0 - 支持影刀原生双通道应用发版与列表勾选联动优化](https://github.com/tom613951/XbotDeployer/releases/tag/v2.1.0) | `2026-11-03` |
 | `Create Branch` | [tom613951/dsh-our-free-model](https://github.com/tom613951/dsh-our-free-model) | [`feature/v2.7.4-with-workbuddy-codearts`](https://github.com/tom613951/dsh-our-free-model/tree/feature/v2.7.4-with-workbuddy-codearts) | `2026-10-31` |
 | `Comment` | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | [#527: [Bug]: 0.4.0 — observation capture wedges the session que...](https://github.com/Tencent/BrowserSkill/issues/527) | `2026-10-31` |
 | `Create Branch` | [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) | [`fix/pnpm11-allowbuilds-invalid-version-union`](https://github.com/tom613951/dsh-purge/tree/fix/pnpm11-allowbuilds-invalid-version-union) | `2026-10-29` |
