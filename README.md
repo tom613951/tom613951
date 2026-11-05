@@ -20,6 +20,7 @@
 <!--START_SECTION:activity-->
 | Event | Repository | Details | Date |
 | :--- | :--- | :--- | :--- |
+| `Create Branch` | [tom613951/BrowserSkill](https://github.com/tom613951/BrowserSkill) | [`fix/live-text-structure-delta`](https://github.com/tom613951/BrowserSkill/tree/fix/live-text-structure-delta) | `2026-11-03` |
 | `Release` | [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) | [v1.2.3](https://github.com/tom613951/dsh-purge/releases/tag/v1.2.3) | `2026-11-05` |
 | `PR Opened` | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | [#562](https://github.com/Tencent/BrowserSkill) | `2026-11-03` |
 | `Release` | [tom613951/XbotDeployer](https://github.com/tom613951/XbotDeployer) | [XbotDeployer v2.1.0 - 支持影刀原生双通道应用发版与列表勾选联动优化](https://github.com/tom613951/XbotDeployer/releases/tag/v2.1.0) | `2026-11-03` |
