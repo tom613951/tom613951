@@ -22,7 +22,6 @@
 | :--- | :--- | :--- | :--- |
 | `Release` | [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) | [v1.2.5](https://github.com/tom613951/dsh-purge/releases/tag/v1.2.5) | `2026-11-06` |
 | `Create Branch` | [tom613951/BrowserSkill](https://github.com/tom613951/BrowserSkill) | [`fix/live-text-structure-delta`](https://github.com/tom613951/BrowserSkill/tree/fix/live-text-structure-delta) | `2026-11-03` |
-| `PR Opened` | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | [#562](https://github.com/Tencent/BrowserSkill) | `2026-11-03` |
 <!--END_SECTION:activity-->
 
 ---
