@@ -23,7 +23,6 @@
 | `Create Branch` | [tom613951/BiliPai](https://github.com/tom613951/BiliPai) | [`_credtest`](https://github.com/tom613951/BiliPai/tree/_credtest) | `2026-11-14` |
 | `PR Opened` | [nya-owo/cloudy](https://github.com/nya-owo/cloudy) | [#9](https://github.com/nya-owo/cloudy) | `2026-11-15` |
 | `Create Branch` | [tom613951/dsh-tool-antigravity](https://github.com/tom613951/dsh-tool-antigravity) | [`feat/account-models-and-gemini-compat`](https://github.com/tom613951/dsh-tool-antigravity/tree/feat/account-models-and-gemini-compat) | `2026-11-15` |
-| `Release` | [tom613951/dsh-purge](https://github.com/tom613951/dsh-purge) | [v0.2.2-rc.3](https://github.com/tom613951/dsh-purge/releases/tag/v0.2.2-rc.3) | `2026-11-14` |
 <!--END_SECTION:activity-->
 
 ---
