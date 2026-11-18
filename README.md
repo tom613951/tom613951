@@ -24,7 +24,6 @@
 | `PR Opened` | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | [#1667](https://github.com/anywhere-labs/dsh-desktop) | `2026-11-16` |
 | `PR Closed` | [nya-owo/cloudy](https://github.com/nya-owo/cloudy) | [#9](https://github.com/nya-owo/cloudy) | `2026-11-15` |
 | `Create Branch` | [tom613951/BiliPai](https://github.com/tom613951/BiliPai) | [`_credtest`](https://github.com/tom613951/BiliPai/tree/_credtest) | `2026-11-14` |
-| `Create Branch` | [tom613951/dsh-tool-antigravity](https://github.com/tom613951/dsh-tool-antigravity) | [`feat/account-models-and-gemini-compat`](https://github.com/tom613951/dsh-tool-antigravity/tree/feat/account-models-and-gemini-compat) | `2026-11-15` |
 <!--END_SECTION:activity-->
 
 ---
