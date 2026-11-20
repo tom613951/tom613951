@@ -22,7 +22,6 @@
 | :--- | :--- | :--- | :--- |
 | `Create Branch` | [tom613951/dsh-desktop](https://github.com/tom613951/dsh-desktop) | [`fix/app-boot-empty-patch-list`](https://github.com/tom613951/dsh-desktop/tree/fix/app-boot-empty-patch-list) | `2026-11-16` |
 | `PR Opened` | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | [#1667](https://github.com/anywhere-labs/dsh-desktop) | `2026-11-16` |
-| `PR Closed` | [nya-owo/cloudy](https://github.com/nya-owo/cloudy) | [#9](https://github.com/nya-owo/cloudy) | `2026-11-15` |
 <!--END_SECTION:activity-->
 
 ---
