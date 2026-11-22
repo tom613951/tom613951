@@ -20,7 +20,7 @@
 <!--START_SECTION:activity-->
 | Event | Repository | Details | Date |
 | :--- | :--- | :--- | :--- |
-| `Create Branch` | [tom613951/dsh-desktop](https://github.com/tom613951/dsh-desktop) | [`fix/app-boot-empty-patch-list`](https://github.com/tom613951/dsh-desktop/tree/fix/app-boot-empty-patch-list) | `2026-11-16` |
+| `Release` | [tom613951/SideTab-Scroller](https://github.com/tom613951/SideTab-Scroller) | [v0.4.0 - 架构轻量化重构、独立鼠标钩子线程与低内存优化](https://github.com/tom613951/SideTab-Scroller/releases/tag/v0.4.0) | `2026-11-22` |
 <!--END_SECTION:activity-->
 
 ---
