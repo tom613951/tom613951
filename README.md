@@ -20,6 +20,9 @@
 <!--START_SECTION:activity-->
 | Event | Repository | Details | Date |
 | :--- | :--- | :--- | :--- |
+| `Comment` | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | [#1764: [Bug]: 会话底部统计浮层等向上展开的浮层因 CSS Anchor 非线性 bottom 偏移导致随滚动向上漂移](https://github.com/anywhere-labs/dsh-desktop/issues/1764) | `2026-11-27` |
+| `PR Opened` | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | [#1765](https://github.com/anywhere-labs/dsh-desktop) | `2026-11-27` |
+| `Issue Opened` | [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | [#1764: [Bug]: 会话底部统计浮层等向上展开的浮层因 CSS Anchor 非线性 bottom 偏移导致随滚动向上漂移](https://github.com/anywhere-labs/dsh-desktop/issues/1764) | `2026-11-27` |
 <!--END_SECTION:activity-->
 
 ---
